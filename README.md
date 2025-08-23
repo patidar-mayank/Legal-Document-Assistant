@@ -63,11 +63,9 @@ streamlit run legal_chat.py
 ```
 
 ### 5. Open in your browser
-
 Navigate to the local address displayed in your terminal (e.g., http://localhost:8501).
 
 ---
-
 ## Usage
 
 - **Document Upload:** Drag and drop your legal files in the upload widget.
