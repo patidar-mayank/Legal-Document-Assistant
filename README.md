@@ -1,4 +1,4 @@
-# Legal Document Assistant
+# Legal Document Assistant📃
 
 A powerful Streamlit application for interactive Q&A and clause extraction from multiple legal documents (PDF, DOCX, and TXT). This tool leverages OpenAI's GPT models and LangChain to enable efficient document understanding, clause discovery, and conversational exploration of legal materials.
 
